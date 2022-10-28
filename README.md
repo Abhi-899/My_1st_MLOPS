@@ -1,1 +1,1 @@
-# My_1st_MLOPS
+# Wine Quality Prediction Automation
